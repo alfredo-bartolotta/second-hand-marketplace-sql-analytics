@@ -1,0 +1,301 @@
+listing_id,seller_id,category_id,title,price,listing_date,status
+1,34,4,Sunglasses,13.54,2024-06-15,active
+2,33,4,Watch,59.74,2024-10-24,active
+3,97,4,Scarf,13.24,2024-09-29,sold
+4,58,3,Crossbody bag,133.96,2024-07-07,sold
+5,53,6,Data science book,92.46,2024-02-03,sold
+6,25,5,Phone case,121.44,2024-10-27,active
+7,51,4,Watch,133.3,2024-05-09,active
+8,46,2,Sport shoes,103.62,2024-09-18,sold
+9,95,4,Scarf,121.15,2024-08-09,sold
+10,7,3,Small backpack,10.72,2024-12-07,sold
+11,86,3,Leather bag,125.11,2024-03-04,active
+12,81,2,Leather boots,114.08,2024-01-03,active
+13,12,3,Crossbody bag,19.2,2024-08-30,active
+14,97,4,Gold earrings,69.08,2024-07-06,sold
+15,40,6,Novel book,59.95,2024-05-11,sold
+16,59,4,Gold earrings,76.96,2024-07-01,sold
+17,7,1,Vintage shirt,130.64,2024-06-26,sold
+18,77,5,Smartwatch,92.61,2024-04-26,active
+19,90,6,Novel book,135.52,2024-11-26,sold
+20,2,4,Watch,6.89,2024-06-12,sold
+21,85,4,Sunglasses,34.8,2024-03-03,active
+22,27,4,Silver necklace,147.8,2024-03-21,active
+23,19,6,Business book,40.08,2024-03-17,sold
+24,90,3,Tote bag,39.89,2024-04-14,sold
+25,30,3,Leather bag,95.71,2024-05-14,sold
+26,29,3,Leather bag,99.5,2024-12-22,sold
+27,23,4,Gold earrings,24.28,2024-06-11,active
+28,62,6,Novel book,114.06,2024-01-09,active
+29,22,5,Smartwatch,107.86,2024-07-07,active
+30,39,3,Crossbody bag,54.14,2024-01-01,sold
+31,90,4,Sunglasses,70.57,2024-05-14,sold
+32,93,1,Black dress,81.48,2024-02-18,sold
+33,7,6,English grammar book,74.44,2024-02-20,sold
+34,99,5,Tablet cover,43.14,2024-09-21,sold
+35,25,6,Business book,19.31,2024-08-02,sold
+36,32,2,Sandals,104.78,2024-11-18,sold
+37,89,2,Sandals,18.46,2024-06-28,active
+38,76,4,Silver necklace,65.64,2024-12-08,sold
+39,45,6,Data science book,36.92,2024-11-03,sold
+40,18,6,Business book,28.04,2024-07-21,active
+41,4,2,Sport shoes,90.63,2024-11-21,active
+42,17,5,Bluetooth speaker,60.68,2024-07-29,sold
+43,90,2,Running shoes,70.59,2024-12-27,active
+44,28,5,Bluetooth speaker,39.52,2024-09-07,sold
+45,14,3,Leather bag,51.8,2024-04-03,sold
+46,55,4,Gold earrings,65.9,2024-12-19,sold
+47,45,2,Leather boots,131.98,2024-02-26,sold
+48,89,6,Data science book,90.38,2024-04-02,sold
+49,71,2,Sandals,108.34,2024-12-17,sold
+50,39,4,Watch,55.56,2024-04-03,active
+51,35,2,Leather boots,72.34,2024-11-30,sold
+52,77,2,Leather boots,13.06,2024-03-27,active
+53,49,6,Business book,84.52,2024-08-30,active
+54,8,4,Silver necklace,56.99,2024-08-11,active
+55,35,4,Watch,33.16,2024-05-31,sold
+56,95,2,Sport shoes,84.61,2024-10-05,sold
+57,57,3,Small backpack,40.95,2024-05-19,sold
+58,94,4,Sunglasses,142.72,2024-12-08,sold
+59,100,6,Travel guide,116.47,2024-06-29,sold
+60,14,2,White sneakers,107.35,2024-06-04,sold
+61,38,6,Travel guide,97.65,2024-05-14,active
+62,22,1,Vintage shirt,141.34,2024-04-01,sold
+63,5,4,Watch,29.68,2024-09-08,sold
+64,61,4,Sunglasses,59.72,2024-12-20,sold
+65,11,3,Travel bag,103.43,2024-07-30,sold
+66,12,6,Travel guide,100.41,2024-06-07,active
+67,78,2,White sneakers,110.01,2024-02-05,sold
+68,98,3,Travel bag,121.56,2024-09-27,sold
+69,62,6,Business book,39.89,2024-01-30,sold
+70,4,3,Leather bag,132.0,2024-10-10,sold
+71,11,6,Business book,78.1,2024-03-01,active
+72,2,5,Phone case,52.44,2024-09-25,sold
+73,88,4,Scarf,110.12,2024-06-09,active
+74,76,5,Bluetooth speaker,124.92,2024-10-02,active
+75,4,6,English grammar book,120.29,2024-02-12,sold
+76,90,6,English grammar book,139.62,2024-07-11,sold
+77,20,6,Travel guide,125.8,2024-03-07,active
+78,3,6,Data science book,140.78,2024-02-18,sold
+79,61,4,Watch,88.83,2024-07-24,sold
+80,84,6,Novel book,108.58,2024-08-27,active
+81,24,1,Black dress,117.86,2024-03-07,sold
+82,86,4,Silver necklace,22.66,2024-04-01,sold
+83,17,5,Phone case,20.09,2024-10-12,sold
+84,53,1,Denim jacket,30.5,2024-11-03,sold
+85,3,3,Crossbody bag,45.39,2024-10-19,active
+86,17,3,Tote bag,81.16,2024-03-13,sold
+87,80,6,Business book,28.92,2024-07-14,sold
+88,100,4,Sunglasses,41.02,2024-05-12,sold
+89,98,1,Summer skirt,88.75,2024-06-02,active
+90,23,2,Leather boots,77.55,2024-01-05,active
+91,83,6,Travel guide,126.96,2024-02-26,sold
+92,48,4,Sunglasses,116.93,2024-03-16,active
+93,42,6,Travel guide,73.52,2024-12-31,sold
+94,13,6,Business book,129.24,2024-06-22,active
+95,67,5,Phone case,22.38,2024-01-05,sold
+96,99,5,Phone case,30.31,2024-12-30,active
+97,60,3,Leather bag,29.77,2024-02-20,active
+98,59,2,White sneakers,127.27,2024-02-25,sold
+99,7,3,Small backpack,39.97,2024-01-08,sold
+100,66,5,Bluetooth speaker,114.36,2024-09-11,sold
+101,48,6,Novel book,26.62,2024-07-26,active
+102,51,2,Sandals,90.76,2024-11-01,sold
+103,16,2,Leather boots,96.54,2024-08-17,sold
+104,45,6,Data science book,67.75,2024-07-02,active
+105,52,4,Gold earrings,76.12,2024-01-22,active
+106,30,5,Smartwatch,119.26,2024-04-09,sold
+107,27,4,Silver necklace,17.21,2024-03-08,sold
+108,76,2,Sandals,9.26,2024-07-17,active
+109,26,6,Novel book,82.95,2024-10-24,sold
+110,35,6,Business book,27.27,2024-09-02,sold
+111,1,1,Summer skirt,90.05,2024-07-19,active
+112,57,6,Business book,142.25,2024-03-16,active
+113,39,4,Scarf,13.55,2024-01-13,active
+114,46,3,Travel bag,75.21,2024-05-18,active
+115,2,4,Silver necklace,5.85,2024-11-29,active
+116,72,2,Sport shoes,57.95,2024-11-03,sold
+117,60,6,Novel book,99.98,2024-03-25,sold
+118,79,2,White sneakers,26.46,2024-08-08,sold
+119,45,2,Sandals,132.69,2024-04-23,active
+120,39,1,Black dress,73.95,2024-05-24,active
+121,91,4,Gold earrings,30.33,2024-02-11,active
+122,79,2,Running shoes,125.78,2024-09-23,sold
+123,76,4,Watch,36.14,2024-10-06,sold
+124,64,4,Gold earrings,26.59,2024-04-11,sold
+125,100,5,Phone case,84.2,2024-07-21,sold
+126,87,1,Denim jacket,106.59,2024-08-20,active
+127,69,4,Silver necklace,23.98,2024-09-15,sold
+128,69,3,Crossbody bag,111.26,2024-08-09,active
+129,97,6,Travel guide,98.29,2024-01-14,sold
+130,20,5,Phone case,9.73,2024-05-04,sold
+131,58,3,Crossbody bag,33.63,2024-04-05,active
+132,87,5,Bluetooth speaker,106.32,2024-12-27,active
+133,97,5,Smartwatch,77.79,2024-07-31,sold
+134,45,4,Sunglasses,22.2,2024-03-25,active
+135,5,2,Sport shoes,25.51,2024-04-07,active
+136,79,2,Sport shoes,90.78,2024-06-13,active
+137,95,3,Leather bag,77.76,2024-12-21,sold
+138,3,5,Smartwatch,128.86,2024-12-14,active
+139,66,3,Travel bag,68.84,2024-02-16,active
+140,38,4,Scarf,28.42,2024-10-15,sold
+141,32,4,Watch,65.62,2024-08-17,active
+142,2,1,Denim jacket,48.49,2024-02-06,active
+143,55,1,Wool sweater,66.22,2024-11-26,sold
+144,34,5,Phone case,50.97,2024-10-09,sold
+145,14,1,Denim jacket,95.37,2024-12-03,active
+146,13,1,Denim jacket,104.2,2024-01-12,sold
+147,24,3,Tote bag,22.49,2024-09-22,sold
+148,83,1,Vintage shirt,26.47,2024-09-30,active
+149,58,4,Sunglasses,126.1,2024-09-08,active
+150,94,5,Tablet cover,38.68,2024-04-03,active
+151,59,6,English grammar book,5.23,2024-06-10,active
+152,66,4,Scarf,134.46,2024-12-14,sold
+153,76,2,White sneakers,31.86,2024-02-03,sold
+154,3,2,Sandals,117.43,2024-12-02,sold
+155,40,2,Sport shoes,79.25,2024-06-09,active
+156,85,2,White sneakers,99.1,2024-09-22,sold
+157,67,3,Small backpack,20.32,2024-01-07,sold
+158,85,1,Wool sweater,112.27,2024-09-28,sold
+159,72,3,Small backpack,12.52,2024-07-27,active
+160,49,6,Novel book,53.5,2024-10-09,active
+161,92,1,Summer skirt,16.55,2024-10-05,active
+162,61,1,Wool sweater,145.03,2024-05-22,active
+163,67,5,Phone case,140.56,2024-07-28,sold
+164,55,1,Summer skirt,93.07,2024-06-14,active
+165,29,3,Travel bag,141.83,2024-07-25,sold
+166,70,2,Running shoes,12.55,2024-12-21,sold
+167,30,2,Sport shoes,113.47,2024-07-26,sold
+168,39,4,Sunglasses,42.66,2024-12-09,sold
+169,7,3,Travel bag,149.6,2024-07-22,sold
+170,97,6,Business book,11.74,2024-08-29,sold
+171,38,4,Gold earrings,47.97,2024-01-21,sold
+172,34,4,Sunglasses,25.86,2024-08-03,sold
+173,83,6,Novel book,140.41,2024-04-03,active
+174,90,3,Travel bag,98.5,2024-09-06,sold
+175,82,2,Leather boots,95.42,2024-10-17,active
+176,6,6,Travel guide,38.44,2024-10-31,sold
+177,45,3,Small backpack,35.7,2024-06-11,sold
+178,64,3,Crossbody bag,11.02,2024-11-16,sold
+179,48,3,Leather bag,141.96,2024-02-16,sold
+180,14,2,Sport shoes,106.55,2024-10-11,active
+181,90,1,Black dress,149.22,2024-06-13,active
+182,14,4,Watch,11.98,2024-10-02,active
+183,73,2,Sandals,115.74,2024-02-07,active
+184,8,1,Wool sweater,48.01,2024-08-02,sold
+185,97,4,Scarf,143.24,2024-01-15,active
+186,80,4,Silver necklace,145.47,2024-02-22,sold
+187,12,2,White sneakers,96.55,2024-05-16,active
+188,17,3,Small backpack,142.67,2024-03-04,active
+189,34,2,Leather boots,47.99,2024-01-20,active
+190,38,4,Scarf,139.11,2024-12-19,sold
+191,33,6,English grammar book,85.79,2024-04-04,active
+192,73,3,Crossbody bag,78.98,2024-04-04,active
+193,91,4,Scarf,5.49,2024-12-05,active
+194,20,5,Smartwatch,118.6,2024-07-25,active
+195,12,1,Summer skirt,78.99,2024-07-22,active
+196,42,2,Sport shoes,113.08,2024-10-21,sold
+197,66,2,Sandals,140.41,2024-02-11,sold
+198,32,3,Leather bag,111.81,2024-11-11,active
+199,64,5,Tablet cover,143.01,2024-11-16,active
+200,53,2,Sport shoes,100.53,2024-05-19,sold
+201,87,4,Scarf,75.2,2024-12-05,sold
+202,94,5,Bluetooth speaker,76.99,2024-12-04,active
+203,59,4,Silver necklace,86.6,2024-06-30,sold
+204,81,4,Watch,94.87,2024-04-14,sold
+205,46,1,Wool sweater,14.29,2024-08-15,sold
+206,36,1,Summer skirt,76.87,2024-04-16,sold
+207,39,4,Watch,52.43,2024-11-24,active
+208,67,2,Sport shoes,129.61,2024-11-14,active
+209,96,2,Running shoes,6.95,2024-05-22,active
+210,43,2,Leather boots,10.97,2024-03-16,active
+211,98,5,Bluetooth speaker,102.77,2024-10-21,active
+212,64,4,Scarf,146.33,2024-08-18,sold
+213,69,4,Silver necklace,37.43,2024-09-14,sold
+214,37,2,Sport shoes,91.46,2024-05-01,sold
+215,53,4,Scarf,64.62,2024-03-18,sold
+216,98,2,Sport shoes,107.51,2024-01-18,sold
+217,76,4,Watch,59.7,2024-12-13,sold
+218,67,1,Wool sweater,48.15,2024-02-01,active
+219,80,6,Travel guide,146.69,2024-03-11,sold
+220,77,1,Summer skirt,17.72,2024-01-10,sold
+221,55,4,Watch,49.82,2024-01-04,sold
+222,13,3,Travel bag,127.16,2024-01-26,sold
+223,57,3,Crossbody bag,128.75,2024-02-03,sold
+224,77,3,Leather bag,60.31,2024-12-13,sold
+225,6,4,Scarf,21.25,2024-03-08,sold
+226,54,3,Leather bag,115.08,2024-07-02,active
+227,51,2,Leather boots,105.44,2024-06-29,active
+228,40,4,Watch,103.82,2024-03-24,active
+229,85,1,Denim jacket,73.44,2024-02-01,sold
+230,55,5,Bluetooth speaker,133.43,2024-07-05,active
+231,81,4,Watch,56.69,2024-04-30,active
+232,98,2,Running shoes,68.1,2024-04-23,sold
+233,11,3,Leather bag,7.04,2024-04-15,sold
+234,68,1,Summer skirt,8.77,2024-03-15,sold
+235,63,2,Leather boots,94.37,2024-08-08,sold
+236,58,6,Business book,43.93,2024-12-05,sold
+237,27,5,Bluetooth speaker,43.52,2024-02-14,sold
+238,24,2,Running shoes,85.39,2024-12-24,active
+239,80,2,Running shoes,93.15,2024-03-05,sold
+240,13,3,Tote bag,58.16,2024-01-11,sold
+241,97,3,Leather bag,101.18,2024-07-28,active
+242,4,1,Summer skirt,13.41,2024-08-03,active
+243,23,3,Small backpack,115.09,2024-09-27,sold
+244,56,6,English grammar book,55.94,2024-07-12,sold
+245,39,4,Silver necklace,5.04,2024-02-09,active
+246,10,4,Sunglasses,117.24,2024-07-11,sold
+247,65,5,Tablet cover,124.53,2024-06-11,active
+248,100,2,Leather boots,13.94,2024-09-26,sold
+249,69,2,Sport shoes,88.45,2024-03-10,active
+250,60,5,Bluetooth speaker,127.85,2024-09-10,active
+251,6,6,Novel book,131.19,2024-02-28,sold
+252,6,3,Crossbody bag,88.06,2024-07-12,active
+253,11,1,Summer skirt,103.75,2024-05-07,active
+254,53,5,Bluetooth speaker,49.52,2024-08-10,sold
+255,50,2,Sandals,86.29,2024-03-14,sold
+256,34,4,Scarf,91.04,2024-07-06,sold
+257,7,1,Wool sweater,58.35,2024-09-26,active
+258,81,2,Running shoes,137.8,2024-01-08,sold
+259,26,4,Scarf,89.91,2024-05-03,active
+260,30,1,Denim jacket,68.48,2024-12-12,sold
+261,13,3,Travel bag,96.35,2024-01-05,sold
+262,99,5,Smartwatch,145.25,2024-12-05,sold
+263,53,4,Silver necklace,68.16,2024-11-16,sold
+264,37,4,Gold earrings,12.87,2024-07-29,sold
+265,65,2,White sneakers,149.2,2024-01-19,active
+266,78,2,Running shoes,44.26,2024-08-12,sold
+267,9,2,Running shoes,135.01,2024-03-12,sold
+268,71,3,Crossbody bag,66.42,2024-09-30,active
+269,92,2,Sport shoes,35.21,2024-05-31,sold
+270,27,6,Business book,100.39,2024-04-17,sold
+271,16,1,Summer skirt,55.06,2024-07-15,sold
+272,95,2,Leather boots,142.73,2024-06-19,sold
+273,96,6,Novel book,18.95,2024-11-16,sold
+274,80,5,Wireless headphones,108.03,2024-02-04,sold
+275,89,1,Vintage shirt,119.53,2024-07-17,active
+276,52,2,Leather boots,37.16,2024-02-21,sold
+277,8,2,Sport shoes,35.48,2024-10-26,sold
+278,79,5,Phone case,131.35,2024-04-30,sold
+279,3,5,Wireless headphones,92.51,2024-10-08,active
+280,2,4,Silver necklace,123.46,2024-10-09,sold
+281,68,6,Novel book,22.93,2024-10-03,sold
+282,65,5,Phone case,13.92,2024-01-03,sold
+283,96,4,Silver necklace,90.36,2024-01-31,active
+284,70,3,Leather bag,59.93,2024-04-13,active
+285,54,2,Leather boots,73.32,2024-05-24,active
+286,73,1,Summer skirt,118.33,2024-10-23,active
+287,69,1,Denim jacket,143.84,2024-12-18,active
+288,85,5,Smartwatch,55.08,2024-03-23,sold
+289,5,5,Phone case,22.38,2024-10-11,sold
+290,29,5,Phone case,32.48,2024-06-18,active
+291,99,3,Crossbody bag,49.12,2024-12-16,active
+292,67,5,Smartwatch,107.1,2024-07-13,active
+293,18,2,Sandals,15.4,2024-11-27,sold
+294,76,5,Phone case,132.46,2024-09-18,active
+295,28,5,Bluetooth speaker,123.08,2024-10-19,sold
+296,57,5,Bluetooth speaker,96.3,2024-07-12,sold
+297,6,5,Wireless headphones,146.53,2024-05-27,active
+298,37,2,Sandals,136.89,2024-08-22,sold
+299,99,5,Wireless headphones,63.06,2024-04-24,sold
+300,75,3,Tote bag,65.22,2024-07-13,sold
